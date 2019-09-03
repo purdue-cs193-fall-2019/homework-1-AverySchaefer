@@ -1,3 +1,5 @@
+# AverySchaefer's First CS193 HW
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -27,6 +29,11 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Favorite  Things about CS193
+- The it teaches stuff thats actually important in the real world
+- The lectures aren't boring so thats pretty cool
+- The PSO gives me a chance to get help for CS 180 and work on the homework assignments
 
 ### Jekyll Themes
 
